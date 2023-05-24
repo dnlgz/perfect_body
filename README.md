@@ -1,3 +1,3 @@
-HSE Lyceum IT  Project - perfect_body 
+## HSE Lyceum IT Projects - test_repo
 
-Заявка на ИТ-проект и пользовательские сценарии
+## Образец заявки на ИТ-проект и пользовательских сценариев
